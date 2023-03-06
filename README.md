@@ -7,4 +7,3 @@ The PyWebIO test is implemented in "main.py" and the algorithm is implemented in
 
 Note that the game dataset here is based on an old but common version of the game, which has been updated with new characters and traits. An image of the set of compatible character-cards is displayed for reference within the app interface. 
 
-<img src="https://github.com/mziru/scalable-web-api/blob/master/tree.svg?raw=true" style="width: 100%">
